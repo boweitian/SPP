@@ -1,7 +1,7 @@
 # SPP — Code for the Main-Paper Figures
 
 This repository contains the cleaned code used to generate the two main-paper
-figures on Spectral Path Persistence (SPP):
+figures on Spectral Principal Path (SPP):
 
 - **Figure 1 — Spectral Dominance** (`spp_results/multi_model/fig1_spectral_dominance.pdf/png`)
 - **Figure 2 — Context Incoherence** (`spp_results/multi_model/fig2_context_incoherence.pdf/png`)
