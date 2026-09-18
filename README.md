@@ -124,3 +124,13 @@ python D_multi_model_plots.py
 - **`--only-plots` flag in C is not part of this pipeline.** It refers to an
   earlier standalone plot that depended on a file not included here; use the
   default invocation (no flag) as shown above.
+
+  ### Cite us
+
+```bibtex
+@article{tian2025spectral,
+  title={Spectral Principal Paths: A Spectral Perspective on Linear Representation Formation in LLMs},
+  author={Tian, Bowei and Lyu, Xuntao and Liu, Meng and Wang, Hongyi and Li, Ang},
+  journal={arXiv preprint arXiv:2506.08543},
+  year={2025}
+}
